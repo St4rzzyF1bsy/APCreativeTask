@@ -1,4 +1,4 @@
-Genre,Album,Artist,Releae Date,Rating,Sub-Genres,Location
+Genre,Album,Artist,Release Date,Rating,Sub-Genres,Location
 Acoustic Rock,Still,Nine Inch Nails,2002,3.76,Singer-Songwriter,"Cleveland, OH"
 Afro-Rock,Wɔyaya,Osibisa,1972,3.65,Progressive Rock | Jazz,"London, United Kingdom"
 Alternative Rock,OK Computer,Radiohead,1997,4.3,Space-Rock Revival,"Abingdon, United Kingdom"
@@ -257,4 +257,5 @@ Wong Shadow,Modified Thai Shadow Music,The Son of P.M.,0,3.3,Wong Shadow,Thailan
 Symphonic Rock,A New World Record,Electric Light Orchestra,1976,3.84,Pop Rock,"Birmingham, United Kingdom"
 Tolai Rock,Tambaran Culture of P.n.g.,Tambaran Culture of P.n.g.,1993,3.37,Yacht Rock,"Port Moresby, Papau New Guinea"
 Visual Kei,Merveilles,MALICE MIZER,1998,3.84,Gothic Rock,"Tokyo, Japan"
+
 Zolo,Sing to God,Cardiacs,1996,3.82,Art Punk,"Kingston, United Kingdom"
